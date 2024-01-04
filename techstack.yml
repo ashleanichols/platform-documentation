@@ -1,7 +1,8 @@
 repo_name: ashleanichols/platform-documentation
 report_id: ad26328ca6cf0494de9b49556f2c35c3
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:49:33+00:00'
+timestamp: '2024-01-04T15:06:58+00:00'
 requested_by: hellojustin
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ashleanichols/platform-documentation
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ashleanichols/platform-documentation
   detection_source: Repo Metadata
 - name: CircleCI
   description: Automate your development process quickly, safely, and at scale
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: Philip James
   last_updated_on: 2018-12-18 21:06:11.000000000 Z
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashleanichols/platform-documentation
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Robert Lord
   last_updated_on: 2013-09-13 22:24:31.000000000 Z
@@ -67,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Robert Lord
   last_updated_on: 2013-11-18 18:31:36.000000000 Z
@@ -79,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Management
   image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/Vagrantfile
   detection_source: Vagrantfile
   last_updated_by: Marc Guyer
   last_updated_on: 2015-10-06 14:51:23.000000000 Z
@@ -91,6 +99,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ashleanichols/platform-documentation
   detection_source: Repo Metadata
 - name: execjs
   description: ExecJS lets you run JavaScript code from Ruby
@@ -102,7 +111,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19031/default_5e6f4490e7ced4a026c6f8459237f2bb9d24fbdb.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: joshbuddy
   last_updated_on: 2017-08-02 21:52:00.000000000 Z
@@ -116,7 +125,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19372/default_63483bd20cbd1c069543c0b924fcbd88fd2c7de1.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Philip James
   last_updated_on: 2019-01-03 00:07:19.000000000 Z
@@ -130,7 +139,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18823/default_b8fbb83e23c963442e15398c5b56262cc6267d6f.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: dependabot[bot]
   last_updated_on: 2019-08-20 18:07:28.000000000 Z
@@ -280,7 +289,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18853/default_b87d202e13d56f87c63181fa49bc5e099c9abaac.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: halfcrazy
   last_updated_on: 2017-01-04 23:49:58.000000000 Z
@@ -301,7 +310,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19110/default_06b56c3cf87200ea8cc83429c79e5c5533c80ede.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Philip James
   last_updated_on: 2019-01-03 00:07:19.000000000 Z
@@ -316,7 +325,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18932/default_36bbb38c1cd5521e90d6e99982778960b00ec515.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Philip James
   last_updated_on: 2019-01-03 00:07:19.000000000 Z
@@ -330,7 +339,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19004/default_b93931146bf44c92297cef24be9c35899def9938.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/ashleanichols/platform-documentation/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: joshbuddy
   last_updated_on: 2017-08-02 21:52:00.000000000 Z
